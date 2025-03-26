@@ -1,6 +1,6 @@
 hello!
 
-This is my first project explaining about somr formatting tags of HTML.
+This is my first project explaining about some formatting tags of HTML.
 
 
 # My Web Development Project.

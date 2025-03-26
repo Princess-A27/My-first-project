@@ -14,5 +14,8 @@ This Is a Simple Project Using HTML.
  - Underline tag
  - Horizontal line 
 
+to watch my page 
+just save index.html in your pc and run it......🖇
+
 
  created By : Aaysha Anjum (https://github.com/Princess-A27)
